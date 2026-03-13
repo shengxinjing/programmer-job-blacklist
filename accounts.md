@@ -11,3 +11,4 @@ submit your github account
 * luckisnow
 * zhangninghai
 * sinoon
+* JipingWei
